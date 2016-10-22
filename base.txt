@@ -1,0 +1,6 @@
+	x	y
+start	-1000	-1000
+end	1000	1000
+N	75	75
+origin	0	0
+grad_0	0	0

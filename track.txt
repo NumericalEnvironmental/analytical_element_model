@@ -1,0 +1,5 @@
+track	1
+direction	1
+time_span 	16425000000.
+steps 	100
+R	2.0
